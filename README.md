@@ -8,10 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> 
 </div>
 
-- 🔭 I’m currently study on: **Data Science, Full-Stack Web Dev**
-
-- 🌱 I’m currently learning: **Advanced Neural Networks, Digital Image Processing and Computer Vision**
-
+- 🌱 I’m currently learning: **Software Engibeer**
 
 <div align="center">
 
