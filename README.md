@@ -14,9 +14,9 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 
 - 📫 How to reach me:
 
-    * <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/[**IG**](https://www.instagram.com/thanatat_ttt/?hl=en)</a>
+    * [**IG**](https://www.instagram.com/thanatat_ttt/?hl=en)
 
-    * <img src="https://image.flaticon.com/icons/png/512/174/174848.png" width="20"/[**FACEBOOK**](https://www.facebook.com/Juthanatat)
+    * [**FACEBOOK**](https://www.facebook.com/Juthanatat)
 
 </div>
 
