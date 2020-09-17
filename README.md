@@ -11,7 +11,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 
 <div align="center">
    
-- 🌱 I’m currently learning: **Software Engibeer**
+- 🌱 I’m currently learning: **Software Engineer**
 
 
 - 📫 How to reach me:
