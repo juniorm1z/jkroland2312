@@ -14,11 +14,11 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
  🌱 I’m currently learning: **Software Engineer**
 
 
- * 📫 How to reach me:
+  📫 How to reach me:
 
-     [**IG**](https://www.instagram.com/thanatat_ttt/?hl=en)
+ -    [**IG**](https://www.instagram.com/thanatat_ttt/?hl=en)
 
-     [**FACEBOOK**](https://www.facebook.com/Juthanatat)
+-     [**FACEBOOK**](https://www.facebook.com/Juthanatat)
 
 </div>
 
